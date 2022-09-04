@@ -7,6 +7,6 @@
 <br>
 <h3 align="center">Abaixo segue foto do projeto:</h3>
 <br>
-<img src="https://github.com/isayrous/we-care-project/blob/master/img/Projeto.3.png?raw=true" width="960px"/>
+<img src="https://github.com/isayrous/wide-coverage-location-project/blob/master/img/Projeto.1.png?raw=true" width="960px"/>
 <br>
 <br>
